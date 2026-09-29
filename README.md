@@ -1,16 +1,91 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**real-erm/real-erm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ASCII ART .. supposed to be 80 culS. -->
+<pre>
+  
+ $$$$$$\  $$\                  $$$$$$\  $$\             $$\           $$$$$$$\  $$\                                         
+$$  __$$\ $$ |                $$$ __$$\ $$ |            $$ |          $$  __$$\ $$ |                                        
+$$ /  $$ |$$$$$$$\   $$$$$$$\ $$$$\ $$ |$$ |$$\   $$\ $$$$$$\         $$ |  $$ |$$ | $$$$$$\  $$\   $$\  $$$$$$\   $$$$$$\  
+$$$$$$$$ |$$  __$$\ $$  _____|$$\$$\$$ |$$ |$$ |  $$ |\_$$  _|        $$$$$$$  |$$ | \____$$\ $$ |  $$ |$$  __$$\ $$  __$$\ 
+$$  __$$ |$$ |  $$ |\$$$$$$\  $$ \$$$$ |$$ |$$ |  $$ |  $$ |          $$  ____/ $$ | $$$$$$$ |$$ |  $$ |$$$$$$$$ |$$ |  \__|
+$$ |  $$ |$$ |  $$ | \____$$\ $$ |\$$$ |$$ |$$ |  $$ |  $$ |$$\       $$ |      $$ |$$  __$$ |$$ |  $$ |$$   ____|$$ |      
+$$ |  $$ |$$$$$$$  |$$$$$$$  |\$$$$$$  /$$ |\$$$$$$  |  \$$$$  |      $$ |      $$ |\$$$$$$$ |\$$$$$$$ |\$$$$$$$\ $$ |      
+\__|  \__|\_______/ \_______/  \______/ \__| \______/    \____/       \__|      \__| \_______| \____$$ | \_______|\__|      
+                                                                                              $$\   $$ |                    
+                                                                                              \$$$$$$  |                    
+                                                                                               \______/                     
+</pre>
 
-Here are some ideas to get you started:
+# real-erm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security student of many trades. Still deciding where to dig deepest.
+
+<br>
+
+![CTF Player](https://img.shields.io/badge/CTF-Player-e74c3c?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Digital-Forensics-2980b9?style=for-the-badge)
+![Android Modder](https://img.shields.io/badge/Android-Modder-3ddc84?style=for-the-badge&logo=android&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-still_learning-f1c40f?style=flat-square&logo=python&logoColor=white)
+![Arch](https://img.shields.io/badge/OS-Arch_Linux-1793d1?style=flat-square&logo=archlinux&logoColor=white)
+
+</div>
+
+---
+
+## About
+
+I work across several areas of cybersecurity and I'm still shaping what I want to specialize in.
+Most of what I know came from breaking things to understand them, and I'm now focused on doing that properly and documenting it.
+
+## What I'm doing now
+
+- **CTF player**: competing and writing up challenges as I solve them.
+- **Digital forensics**: new to the field, learning disk, memory and artifact analysis.
+- **Android modding**: custom ROMs, rooting, and figuring out how the platform works underneath.
+- **Python**: still learning. Expect rough edges in my repos.
+
+## Where I'm headed
+
+<!-- ROLES GO HERE -->
+
+- Target role 1: Senior Android modder
+- Target role 2: Reverse Analyst
+- Longer term: 6-figure salary eng or a CEO of my own org 
+
+## Background
+
+<!-- clean projects go here  -->
+
+**5th** place in **NileCTF** (online)
+
+## Blog
+
+[![Blog](https://img.shields.io/badge/Blog-real--erm.github.io-8e44ad?style=for-the-badge)](https://real-erm.github.io)
+![Status](https://img.shields.io/badge/status-work_in_progress-f39c12?style=for-the-badge)
+
+Writeups, notes and tools. Under construction, so expect things to move around.
+
+## Projects
+
+<!-- my best hits -->
+### nothing here yet 
+| Project | What it does |
+|---------|--------------|
+| _placeholder_ | _placeholder_ |
+
+## Contact
+
+<!-- contact links go here  -->
+
+- Discord : https://discord.com/users/1261253325551304718
+
+---
+
+<div align="center">
+
+<sub>For authorized testing and educational use only.</sub>
+
+</div>
+
+<!-- SSB1c2UgQVJDSCBCVFc= -->
