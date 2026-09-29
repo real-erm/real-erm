@@ -16,9 +16,9 @@ $$ |  $$ |$$$$$$$  |$$$$$$$  |\$$$$$$  /$$ |\$$$$$$  |  \$$$$  |      $$ |      
                                                                                                \______/                     
 </pre>
 
-# real-erm
+# real-erm | Metwally
 
-Security student of many trades. Still deciding where to dig deepest.
+Digital forensics CTF player.
 
 <br>
 
@@ -35,15 +35,13 @@ Security student of many trades. Still deciding where to dig deepest.
 
 ## About
 
-I work across several areas of cybersecurity and I'm still shaping what I want to specialize in.
-Most of what I know came from breaking things to understand them, and I'm now focused on doing that properly and documenting it.
+I do what I need to, but I like DF pwn and modding.
 
 ## What I'm doing now
-
-- **CTF player**: competing and writing up challenges as I solve them.
-- **Digital forensics**: new to the field, learning disk, memory and artifact analysis.
-- **Android modding**: custom ROMs, rooting, and figuring out how the platform works underneath.
-- **Python**: still learning. Expect rough edges in my repos.
+- CTFs 
+- Android modding <!-- a2VybmFsU1UgaXMgZ29hdGVk -->
+- Game modding (entry)
+- High-school
 
 ## Where I'm headed
 
@@ -84,7 +82,7 @@ Writeups, notes and tools. Under construction, so expect things to move around.
 
 <div align="center">
 
-<sub>For authorized testing and educational use only.</sub>
+<sub>I was supposed to type something here</sub>
 
 </div>
 
