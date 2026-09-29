@@ -76,7 +76,7 @@ Writeups, notes and tools. Under construction, so expect things to move around.
 
 <!-- contact links go here  -->
 
-- Discord : https://discord.com/users/1261253325551304718
+- **Discord:** [Profile](https://discord.com/users/1261253325551304718)
 
 ---
 
